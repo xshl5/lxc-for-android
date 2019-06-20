@@ -10,3 +10,6 @@ sudo apt-get install lsb-release
 
 ### Setting NDK path yourself in build_lxc.sh, And building
 ./build_lxc.sh
+
+# References
+https://github.com/clondroid/lxc-for-Android-7.1.2
