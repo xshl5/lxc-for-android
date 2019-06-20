@@ -22,6 +22,7 @@
 #define _GNU_SOURCE 1
 #endif
 #include <alloca.h>
+#include <malloc.h>
 #include <mntent.h>
 #include <stdio.h>
 #include <string.h>
