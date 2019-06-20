@@ -59,8 +59,6 @@ LDFLAGS=$LDFLAGS \
 	--disable-selinux \
 	--enable-capabilities \
 	--disable-examples \
-	--disable-lua \
-	--disable-python \
 	--disable-bash \
 	--enable-configpath-log \
         \
